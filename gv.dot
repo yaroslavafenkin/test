@@ -1,1 +1,0 @@
-digraph G { a [label="click-me" URL="javascript:alert(document.domain)" tooltip="<img src=x onerror=alert(1)>"]; b [label=<<b>B</b><br/>x>]; a->b; }
