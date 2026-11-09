@@ -1,0 +1,6 @@
+++++
+<img src=x onerror=alert(document.domain)>
+++++
+pass:[<svg onload=alert(document.domain)>]
+link:javascript:alert(document.domain)[x]
+image::x[link="javascript:alert(document.domain)"]
